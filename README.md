@@ -1,5 +1,6 @@
 <div align="center">
   <img height=128 src="https://github.com/trduyTh4nh/health-care-application/assets/68984861/180033ca-e53f-4eb2-8d9f-ea1bc3531b6b"/>
+  <img height=512 src="https://github.com/user-attachments/assets/3f5ea554-d759-4585-a653-38e960f98f29"/>
   <h1>WellMate</h1>
   <p>Ứng dụng chăm sóc sức khoẻ</p>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
