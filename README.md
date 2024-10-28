@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
 
-# Tính năng
+## Tính năng
 - Lên lịch nhắc nhở uống thuốc
 - Import thuốc và lịch uống thuốc qua mã vạch
 - Nhắc nhở uống thuốc qua push notification
