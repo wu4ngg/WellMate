@@ -8,6 +8,18 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
 
+# Tính năng
+- Lên lịch nhắc nhở uống thuốc
+- Import thuốc và lịch uống thuốc qua mã vạch
+- Nhắc nhở uống thuốc qua push notification
+- Xóa thuốc, xóa chi tiết lịch uống thuốc
+- Thêm thuốc thủ công
+- Nhắc nhở tái khám
+- Xác nhận uống thuốc
+- Trì hoãn nhắc nhở uống thuốc
+- Mua thêm thuốc khi đã hết
+- Thanh toán thuốc qua cổng thanh toán
+
 ## Tiến độ
 
 ![](https://geps.dev/progress/100)
